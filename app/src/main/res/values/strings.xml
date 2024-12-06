@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firebase application3</string>
+    <string name="send_data">send data\n</string>
+    <string name="get_data">get data</string>
+    <string name="title">title\n</string>
+    <string name="description">description\n</string>
+    <string name="Upload">upload\n</string>
+</resources>
